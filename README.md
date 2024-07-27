@@ -11,7 +11,7 @@ This project provides a web-based dashboard for visualizing Walmart sales data u
 - Data manipulation and analysis using Pandas.
 
 ## Demo
-Check out the live demo [here](https://walmartsalesdashboard.streamlit.app).
+Check out the live demo [here](https://sales-dashboardwalmart.streamlit.app/).
 
 ## Installation
 1. Clone the repository:
